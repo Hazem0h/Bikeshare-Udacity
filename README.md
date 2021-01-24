@@ -1,5 +1,6 @@
 # Bikeshare-Udacity
-This is my implementation for the Bikeshare project on Udaity.  <br>
+This is my implementation for the Bikeshare project on Udacity.  <br>
+
 All you have to do is to run `bikeshare.py` and make sure the `csv files` are in the same directory <br>
 
 Basically, you have the bike-riding data for 3 US states in 3 csv files. The data in the csv files includes:
