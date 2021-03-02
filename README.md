@@ -16,7 +16,7 @@ Basically, you have the bike-riding data for 3 US states in 3 csv files. The dat
 
 <img src = "images/data columns.jpg">
 
-From this data, you have a console application that prints "trip" and "bike user" statistics to the console. The console prompts the user to filter results by state, and datam and lets the user view the raw data in the console.
+From this data, you have a console application that prints "trip" and "bike user" statistics to the console. The console prompts the user to filter results by state, and date and lets the user view the raw data in the console.
 
 
 ## An example for the prompt after running the bikeshare.py file:
